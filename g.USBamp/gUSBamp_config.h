@@ -3,6 +3,7 @@
 #include <stdint.h>
 #include <cstddef>
 #include <map>
+#include <string>
 
 // This defines g.NEEDaccess-like structures for use with the gUSBamp CAPI.
 // The goal is to unify maintenance of gUSBamp CAPI apps and gNEEDaccess apps.
